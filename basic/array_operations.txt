@@ -1,0 +1,18 @@
+pop()
+push(e)
+shift()
+unshift(e)
+reverse()
+splice(from, how many) **
+join('###)
+indexOf(e)
+includes(e)
+
+forEach
+some
+every
+map
+filter
+reduce
+find
+findIndex

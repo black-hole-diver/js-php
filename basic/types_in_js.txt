@@ -1,0 +1,3 @@
+Primitive values: null, undefined
+Simple types: Boolean, Number, String
+Complex types: Object, Array, Function
