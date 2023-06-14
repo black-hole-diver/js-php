@@ -1,0 +1,2 @@
+Declare with let, const.
+Avoid global variable

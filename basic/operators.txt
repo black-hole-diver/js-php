@@ -1,0 +1,23 @@
+Arithmetic operations:
++, -, *, /, %, ++, --
+
+Assignment operators:
+=, *=, /=, %=, +=, -=
+
+Compare operators:
+==, !=, ===, !==, >, >=, <, <=
+== and != by value
+=== and !=== by value and types
+
+Logical operators:
+&&, ||, !
+
+String concatenation operators:
++, +=
+
+Bitwise operators*
+&, |, ^, ~, <<, >>, >>>
+
+Special operations:
+`? :` conditional operators
+`,` execute multiple expressions in a statement and return last expression
